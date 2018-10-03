@@ -1,0 +1,21 @@
+#landing {
+    background-image: url('../images/hero.jpg');
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 790px;
+}
+
+.row {
+    height: 790px;
+}
+
+#logo {
+    font-size: 65px;
+    padding-top: 12px;
+    padding-left: 48px;
+    color: white;
+    font-weight: lighter;
+}
