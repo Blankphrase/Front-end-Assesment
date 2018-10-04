@@ -240,3 +240,44 @@ hr {
     height: 73px;
     background-color: #535154;
 }
+
+.bird {
+    padding-top: 27px;
+}
+
+.sal {
+    color: white;
+    padding-top: 27px;
+    font-size: 20px;
+}
+
+.contact {
+    height: 352px;
+    background-color: #414141;
+    color: white;
+}
+
+.yolomy {
+    padding-top: 106px;
+    width: 310px;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.social {
+    padding-top: 60px;
+}
+
+#soci {
+    font-size: 34px;
+    font-weight: lighter;
+}
+
+#copy {
+    font-size: 13px;
+}
+
+.bottmenu {
+    padding-top: 157px;
+    font-size: 16px;
+}
