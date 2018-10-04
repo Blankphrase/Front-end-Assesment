@@ -118,10 +118,103 @@ button {
 
 }
 
-#empty1 {
+.empty1 {
     height: 98px;
 }
 
 hr {
-    font-stretch: expanded;
+    border: none;
+    height: 2px;
+    color:#6E6E6E;
+    background-color:#6E6E6E;
+}
+
+.empty2 {
+    height: 78px;
+}
+
+.empty4 {
+    width: 187px;
+}
+
+.pages {
+    color: #B8AF92;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.empty5 {
+    width: 190px;
+}
+
+.pages2 {
+    color: #B8AF92;
+    font-weight: 900;
+    font-stretch: extra-expanded;
+}
+
+.men {
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.clothe {
+    text-align: center;
+}
+
+.jumbotron {
+    width: 322px !important;
+    height: 376px !important;
+}
+
+.emp {
+    width: 65px;
+}
+
+.shirt {
+    border-style: solid;
+    border-color: #A99B76;
+}
+
+.prod {
+    width: 322px;
+    height: 376px;
+}
+
+.tee {
+  float: left;
+  color: #A99B76;
+  font-size: 14px;
+}
+
+.price {
+  float: right;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  float: right;
+}
+
+.green {
+    background-color: #2DB200;
+}
+
+.blue {
+    background-color: #0000FE;
+}
+
+.grayish {
+    background-color: #535154;
+}
+
+.pink {
+    background-color: #D4A7AC;
+}
+
+.white {
+    background-color: #FFFFFF;
 }
