@@ -36,7 +36,6 @@
     font-size: 60px;
     color: white;
     font: lighter;
-    height: ;
 }
 
 .empty2 {
@@ -67,6 +66,8 @@
 .about {
     background-image: url('../images/about.jpg');
     height: 402px;
+    text-align: center;
+    padding-top: 70px;
 }
 
 #products {
@@ -217,4 +218,25 @@ hr {
 
 .white {
     background-color: #FFFFFF;
+}
+
+#abt {
+    color: white;
+    line-height: 45px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    border: 2px solid #908361;
+    padding-top: 25px;
+    height: 253px;
+    width: 712px;
+}
+
+.abt {
+    color: white;
+}
+
+#sale {
+    height: 73px;
+    background-color: #535154;
 }
