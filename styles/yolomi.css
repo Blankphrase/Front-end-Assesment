@@ -1,5 +1,6 @@
 #landing {
     background-image: url('../images/hero.jpg');
+    height: 790px;
 }
 
 .container-fluid {
@@ -8,14 +9,119 @@
     height: 790px;
 }
 
-.row {
-    height: 790px;
+#logo {
+    font-size: 51px;
+    padding-top: 26px;
+    padding-left: 22px;
 }
 
-#logo {
-    font-size: 65px;
-    padding-top: 12px;
-    padding-left: 48px;
+.nav {
+    padding-left: 67px;
     color: white;
     font-weight: lighter;
+}
+
+.menu {
+    padding-top: 51px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.empty {
+    width: 470px;
+}
+
+.motto {
+    padding-top: 150px;
+    font-size: 60px;
+    color: white;
+    font: lighter;
+    height: ;
+}
+
+.empty2 {
+    width: 255px;
+}
+
+.empty3 {
+    width: 457px;
+}
+
+.desc {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+.desc2 {
+    text-align: center;
+    color: white;
+    padding-top: 0px;
+}
+
+.mouse {
+    text-align: center;
+    color: white;
+    padding-top: 255px;
+}
+.about {
+    background-image: url('../images/about.jpg');
+    height: 402px;
+}
+
+#products {
+    background-color: #C6BFA5;
+    height: 147px;
+    padding-top: 50px;
+}
+
+label {
+    font-weight: lighter;
+}
+
+input[type=checkbox] {
+    transform: scale(2);
+    -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    padding: 25px;
+    padding-left: 20px;
+}
+
+#rr-element {
+    white-space: nowrap;
+}
+
+#rr-element label {
+   padding-left: 0.4em;
+}
+
+dt {
+    display: inline-block;
+}
+
+button {
+    background-color: #651B00;
+    border-color: #651B00;
+    height: 50px;
+    width: 203px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+.elements {
+    width: 870px;
+}
+
+.clothing {
+    height: 1308px;
+
+}
+
+#empty1 {
+    height: 98px;
+}
+
+hr {
+    font-stretch: expanded;
 }
